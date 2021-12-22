@@ -1,9 +1,8 @@
 Hey! I am Jorge 👋
 
-I’m an Android engineer currently working for 47 Degrees as Android & Kotlin tech lead. I am also part of the [Arrow library](http://arrow-kt.io/) maintainers, and an instructor on the [47 Degrees Academy](https://www.47deg.com/trainings/academy/).
+I’m an Android engineer currently working for Twitter. Author of [Jetpack Compose internals](https://leanpub.com/composeinternals/) and a frequent technical writer, having written about Kotlin, Android, Functional Programming and more.
 
-I am a frequent technical writer, having written about Kotlin, Android, Functional Programming and more.
-
+- 📖 [Jetpack Compose internals](https://leanpub.com/composeinternals/)
 - ✍️ [My tech blog](https://jorgecastillo.dev/)
 - 📩 You can contact me [by mail](mailto:jorge.castillo.prz@gmail.com)
 - 🙋‍♂️ More [about me](https://jorgecastillo.dev/about).
