@@ -6,6 +6,7 @@ I’m an Android engineer currently working for Twitter. Author of [Jetpack Comp
 - ✍️ [My tech blog](https://jorgecastillo.dev/)
 - 📩 You can contact me [by mail](mailto:jorge.castillo.prz@gmail.com)
 - 🙋‍♂️ More [about me](https://jorgecastillo.dev/about).
+- <a rel="me" href="https://androiddev.social/@jorge">Mastodon</a>
 
 <!--
 **JorgeCastilloPrz/jorgecastilloprz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
